@@ -1,0 +1,44 @@
+
+
+
+Summary of findings:
+7ffbca7e7e60e13461801769ad70f770879d0f81,
+
+This article mentions some findings about Asymptomatic transmissions in children and the possible connection of Asymptomatic tramsmission with seasons.
+Asymptomatic infection rates may vary as a function of host age and virus.
+In general, among children, studies have found that 24.6% to 64% of human rhinovirus (HRV) infections are asymptomatic
+Calvo et al. documented an HRV shedding rate of 12.3% among healthy children
+Here, we document the shedding prevalence of a number of common respiratory viruses in an ambulatory adult population, as well as the distributions of symptomatology and symptom severity. Sampling was conducted in two seasonal arms: one carried out in the late spring/early summer (summer arm), which has been previously reported (2) , and one carried out in the late winter/early spring (winter arm). In the summer arm, we found that over 5% of individuals tested positive for respiratory virus, with the majority testing positive for HRV, but with over half also reporting being asymptomatic.
+
+5ae438eff01ac41a451ff26064c3346805d1c1dc
+
+This paper concludes that tonsillectomy significantly reduces asymptomatic shedding of HAdV and HBoV in NPWs.
+
+f88fbbf560611575d851cd986fe84b08e5aaa26f
+This article studies fecal samples of 554 bovines randomly selected from 30 farms> One of the observations is that Cryptosporidial infections were always asymptomatic in bovines older than 4 months.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7ffbca7e7e60e13461801769ad70f770879d0f81,
+
+text: "Asymptomatic infection rates may vary as a function of host age and virus. In one study, 52% of asymptomatic children recruited from an Alaskan community tested positive for shedding respiratory virus in a one-time sampling scheme, with the majority having HRV and adenovirus (7) . In another prospective surveillance investigation comparing positivity levels of symptomatic and asymptomatic infants in Perth, Australia, respiratory viruses were detected in 70% of samples from symptomatic infants and in 24.6% of samples from asymptomatic infants (8) . In general, among children, studies have found that 24.6% to 64% of human rhinovirus (HRV) infections are asymptomatic (7) (8) (9) (10) . A number of studies have also documented the fraction of asymptomatic children who are shedding virus rather than the fraction of infected children who are asymptomatic. Calvo et al. documented an HRV shedding rate of 12.3% among healthy children (9) . Van Benten et al. found that 20% of asymptomatic infants Յ2 years old tested positive for HRV (11) . Similarly, Nokso-Koivisto et al. found that 20% of children without any past or recent respiratory infection symptoms tested positive for HRV or coronavirus (CoV) (12) . Other studies examining multiple respiratory agents documented respiratory virus infection in 40% and 42% of children without symptoms (13, 14) . The definition of symptomatic infection is not standardized, but most of these studies defined asymptomatic patients as those free from symptoms at the time of study participation or within a window around the time of enrollment. This wide variation in symptomatic versus asymptomatic presentations underscores the need for further studies to understand the distribution of symptoms across infec-tion statuses. Here, we document the shedding prevalence of a number of common respiratory viruses in an ambulatory adult population, as well as the distributions of symptomatology and symptom severity. Sampling was conducted in two seasonal arms: one carried out in the late spring/early summer (summer arm), which has been previously reported (2) , and one carried out in the late winter/early spring (winter arm). In the summer arm, we found that over 5% of individuals tested positive for respiratory virus, with the majority testing positive for HRV, but with over half also reporting being asymptomatic. We hypothesized that these numbers might vary by season, as many respiratory infections, as well as ambulatory population contact dynamics, display seasonal patterns. (Since we published our previous study, GenMark Diagnostics, the manufacturer of the respiratory viral panel [RVP] assay used to analyze these samples, determined that a higher cutoff value for positivity was warranted for some of the assayed viruses. This paper thus rereports the summer study with a cutoff value of 25 nA/mm 2 rather than 3 nA/mm 2 , so the numbers differ from those reported in Shaman et al. [2] .)"
+
+5ae438eff01ac41a451ff26064c3346805d1c1dc
+text: "Respiratory viruses are frequently detected in association with chronic tonsillar hypertrophy in the absence of symptoms of acute respiratory infection (ARI). The present analysis was done in follow-up to a previous clinical study done by this same group. Nasopharyngeal washes (NPWs) were obtained from 83 of 120 individuals at variable times post adenotonsillectomy, in the absence of ARI symptoms. A look back at virus detection results in NPWs from the same 83 individuals at the time of tonsillectomy revealed that 73.5% (61/83) were positive for one or more viruses. The overall frequency of respiratory virus detection in posttonsillectomy NPWs was 58.8%. Rhinovirus (RV) was the agent most frequently detected, in 38 of 83 subjects (45.8%), followed by enterovirus in 7 (8.4%), human metapneumovirus in 6 (7.2%), human respiratory syncytial virus in 3 (3.6%) and human coronavirus in 1 (1.2%). Remarkably, there was no detection of adenovirus (HAdV) or human bocavirus (HBoV) in asymptomatic individuals in follow-up of adenotonsillectomy. In keeping with persistence of respiratory DNA viruses in human tonsils, tonsillectomy significantly reduces asymptomatic shedding of HAdV and HBoV in NPWs."
+
+f88fbbf560611575d851cd986fe84b08e5aaa26f
+Faecal samples from 554 bovines randomly selected at 30 farms in Arag6n were examined to investigate the prevalence of Cryptosporidium and Giardia infections. C. parvum oocysts were identified by using the Ziehl-Neelsen modified technique in 109 (19.7%) bovines ranging from 3 days old to adults. Positive animals were found in 19 (63.3%) farms. As much as 44.4% of calves aged 3-4 days were infected, but infection rates peaked at 6-15 days of age (76.7%). Nevertheless, prevalence was also high in weanling calves aged 1.5-4 months (14%), fattening calves and heifers 4-24 months old (7.7%) and adults (17.8%). Diarrhoea was recorded in 78.6% of suckling and 29.4% of weanling calves infected by C. parvum, but it was only found to be statistically associated with infection in suckling calves (P < 0.01). All calves shedding moderate or many oocysts had diarrhoea, whereas asymptomatic infection was always correlated with few oocysts in faeces. Cryptosporidial infections were always asymptomatic in bovines older than 4 months. Giardia cysts were identified in 65 bovines (11.7%) from 16 (53.3%) of the farms surveyed. Infection rates were significantly higher in suckling (14.1%) and weanling calves (38%) than in bovines older than 4 months (2.2%) (P < 0.001). Diarrhoea was recorded in 45.5% of suckling and 10.9% of weanling calves infected by Giardia, but it was not found to be statistically associated with infection. In fact, infection rates were higher in non-diarrhoeic than in diarrhoeic calves.",
+
