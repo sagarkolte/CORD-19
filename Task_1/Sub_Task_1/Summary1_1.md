@@ -6,7 +6,7 @@
 3. convalescent
 4. transmission
 5. contagious
-6. recovery
+6. carrier
 7. convalescence
 
 # Note on the vocabulary
@@ -56,6 +56,9 @@ f81a3ef89c4144309cf86374440e2a3a8a0e095c
 d1312034ff2df8c47731d9519e2a4330e5cbc535
 d2bf31d4a63b71e7b5bb16f4375134d4ef881d25----->This articles is also about the role of convalescent sera in treatment.
 Contrary to our expectations about finding transmissibility during convalescence, we found possible ways to treat patients using the blood of convalescent patients.
+
+4. Convalescent, carrier
+We found no documents with both these words together, perhaps this is an invitation for the community to dig deeper into the corpus.
 
 
 

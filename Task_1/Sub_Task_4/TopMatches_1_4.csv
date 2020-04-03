@@ -1,6 +1,6 @@
-SHA,coronavirus,persistence,protein,surface,sum
-c23ca3e907605d72fe9c03903ae31a5c0a948493,0,7,0,2,9
-3677789674e47d9e9b35f87c659430e5295370e9,2,1,0,7,8
-f95dff44aae700378dd3746ea194c9a31a7b15b8,3,1,0,4,5
-422cd9eb3c56e4f05ba9ced4ecbda48bdc043c16,0,2,0,2,4
-2884fdee6db20fa38c7ad56008b0ff4b84eeb41d,0,1,0,2,3
+SHA,charge,persistence,hydrophilic,hydrophobic,coronavirus,distribution,surface,sum
+ae26337e6fe2ba4e94f90b8884854b18eabb6dfe,0,0,0,6,1,0,0,7
+d25529180f950874e0b4f62a976959d683a2ceaf,1,0,0,1,5,0,1,6
+a305432e0d8be1875ecfe5ff17dab6120ec8cab9,0,0,0,1,4,0,0,5
+038f492d4638cdf83c9b6fe0497919ddc2c87724,0,0,0,1,4,0,0,5
+4a691acb8d49f816a5f377c8ada003ae2d2347c1,0,0,0,1,3,0,0,4
